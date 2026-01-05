@@ -48,7 +48,6 @@ If the report references local files:
 ## Exports
 - Static PDF: `outputs/MBA-report.pdf` *(add/link if available)*
 - (Optional) Interactive web link if published to Power BI Service:
-  - ▶️ **[Open interactive report](https://app.powerbi.com/view?r=YOUR_LINK_HERE)**
 
 ## Attribution
 If this work is based on another repository or dataset, credit it here.
